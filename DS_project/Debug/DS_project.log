@@ -1,0 +1,6 @@
+﻿  DS_project.cpp
+  Event.cpp
+D:\My Fooking Piece Of Shit Stoof\Studying\2nd Level\Second Semester\Data Stucture\Project files\DS_project\DS_project\DS_project\Event.cpp(447,25): warning C4018: '>': signed/unsigned mismatch
+D:\My Fooking Piece Of Shit Stoof\Studying\2nd Level\Second Semester\Data Stucture\Project files\DS_project\DS_project\DS_project\Event.cpp(608,25): warning C4018: '>': signed/unsigned mismatch
+  Generating Code...
+  DS_project.vcxproj -> D:\My Fooking Piece Of Shit Stoof\Studying\2nd Level\Second Semester\Data Stucture\Project files\DS_project\DS_project\Debug\DS_project.exe
